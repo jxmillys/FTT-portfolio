@@ -10,7 +10,7 @@ Para instalar o  FTT project, siga estas etapas:
 
 Windows, Linux e macOS:
 ```
-git clone 
+git clone https://github.com/jxmillys/FTT-portifolio
 ```
 
 ## ☕ Usando  FTT project
